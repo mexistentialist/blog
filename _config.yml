@@ -11,8 +11,8 @@ email: munoz.sal3@gmail.com
 description: > # 
   Former community organizer turned coder. This is where I will track my 
   progress as I further build my skills and portfolio. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://mexistentialist.github.io/" # the base hostname & protocol for your site
 twitter_username: Munoz_Sal3
 github_username:  mexistentialist
 
